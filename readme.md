@@ -48,8 +48,8 @@
 
   <br/>
 <p align="center">
-    <a href="https://github.com/pompy001/github-readme-stats"><img align="center" alt="Ankit Janbandhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pompy001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"  /></a>
-  <a href="https://github.com/pompy001/github-readme-stats"><img align="center" alt="Ankit Janbandhu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pompy001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="239" height="618" /></a>
+    <a href="https://github.com/pompy001/github-readme-stats"><img alt="Ankit Janbandhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pompy001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"width="480" height="280"/></a>
+  <a style="padding-right:10px;" href="https://github.com/pompy001/github-readme-stats"><img alt="Ankit Janbandhu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pompy001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="480" height="280"/></a>
 </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
