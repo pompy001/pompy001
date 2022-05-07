@@ -18,8 +18,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p style =" background: rgba(0, 0, 0, 0.5);
-width: fit-content;" align="center"> 
+<p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="static/pandas.png"/> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="static/numpy.png"/> </a>
