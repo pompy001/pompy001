@@ -1,7 +1,7 @@
 <p align="center">
 <a href="#"><img width="300px" height="auto" src="static/cover.svg" height="100px"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit Janbandhu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Ankit Janbandhu</h1>
 <h3 align="center">I'm a passionate Data scientist from India.</h3>
 
 
